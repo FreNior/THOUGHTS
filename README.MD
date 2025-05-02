@@ -9,15 +9,9 @@ The goal of this project is to:
 - Provide a structured way to revisit and refine ideas.
 - Serve as a personal knowledge base for inspiration and growth.
 
-## Structure
-
-The project is organized as follows:
-- **Ideas/**: Raw, unfiltered thoughts and brainstorming.
-- **Reflections/**: Personal insights and lessons learned.
-- **Plans/**: Actionable steps and strategies for future projects.
-- **Miscellaneous/**: Anything that doesn't fit into the above categories.
-
 ## Usage
+
+> To use this project, you'll need to clone the repository to your local machine.
 
 1. Add new thoughts or ideas to the appropriate folder.
 2. Regularly review and refine entries to maintain clarity and relevance.
