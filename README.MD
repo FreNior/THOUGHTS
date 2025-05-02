@@ -23,7 +23,7 @@ This is a personal project, but feel free to suggest improvements or share feedb
 
 ## License
 
-This project is for personal use and is not licensed for public distribution.
+This project is under MIT license.
 
 ---
 Happy thinking!
