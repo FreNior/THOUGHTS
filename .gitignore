@@ -1,0 +1,6 @@
+node_modules/
+.vscode/
+sessions/
+public/uploads/
+logs/
+.env
