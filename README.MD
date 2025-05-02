@@ -13,7 +13,6 @@ The goal of this project is to:
 
 > To use this project, you'll need to clone the repository to your local machine.
 
-### In this project, you can:
 1. Add new thoughts or ideas to the appropriate folder.
 2. Regularly review and refine entries to maintain clarity and relevance.
 3. Use this repository as a creative outlet and a tool for personal development.
